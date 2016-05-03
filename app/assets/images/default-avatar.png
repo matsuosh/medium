@@ -1,0 +1,11 @@
+--2016-05-03 15:01:22--  https://www.mautic.org/media/images/default_avatar.png
+www.mautic.org をDNSに問いあわせています... 104.236.73.40
+www.mautic.org|104.236.73.40|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 15995 (16K) [image/png]
+`default_avatar.png' に保存中
+
+     0K .......... .....                                      100% 86.7K=0.2s
+
+2016-05-03 15:01:23 (86.7 KB/s) - `default_avatar.png' へ保存完了 [15995/15995]
+
